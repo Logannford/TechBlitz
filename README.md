@@ -1,1 +1,1 @@
-repo moved to https://github.com/techblitzdev/TechBlitz/
+# repo moved to https://github.com/techblitzdev/TechBlitz/
